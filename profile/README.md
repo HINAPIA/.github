@@ -5,8 +5,8 @@
 </br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/a5757b90-d079-4805-8b07-5281b13cd865" width="327" />
-  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/090f993c-7a63-4781-b68a-6370a9456e0b" width="500" />
+  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/9ceeca13-5a21-4284-8a62-5aa3575dd641" width="327" />
+  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/ef7e7f9e-ffd6-4f12-9e47-9b2c3edfa068" width="500" />
 </div>
 
 
