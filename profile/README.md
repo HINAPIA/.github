@@ -2,6 +2,13 @@
 
 > 2022.06 ~ 2023.12 <br/>
 > 안녕하세요. 열정 넘치는 컴퓨터 공학부 학생 4명이 모여 구성된 팀입니다. 😊
+</br>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/a5757b90-d079-4805-8b07-5281b13cd865" width="327" />
+  <img src="https://github.com/ujkkk/ujkkk/assets/88374384/090f993c-7a63-4781-b68a-6370a9456e0b" width="500" />
+</div>
+
 
 <br/>
 <br/>
