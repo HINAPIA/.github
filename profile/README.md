@@ -14,12 +14,10 @@
 ## 👨‍👩‍👧‍👧Team Members
 <table>
   <tbody>
-    <tr>
       <td align="center"><a href="https://github.com/syy0O"><img src="https://avatars.githubusercontent.com/u/86238720?v=4" width="150px" alt=""/><br /><sub><b>유송연</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/kyum-q"><img src="https://avatars.githubusercontent.com/u/109158497?v=4" width="150px" alt=""/><br /><sub><b>김경미</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ujkkk"><img src="https://avatars.githubusercontent.com/u/88374384?v=4" width="150px" alt=""/><br /><sub><b>김유진</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/muppychae1"><img src="https://avatars.githubusercontent.com/u/109191101?v=4" width="150px" alt=""/><br /><sub><b>박채원</b></sub></a><br /></td>
-     <tr/>
   </tbody>
 </table>
 
