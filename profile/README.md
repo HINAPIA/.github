@@ -39,7 +39,7 @@
 
 ## 📝 Publications
 
-* [[논문1] 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현](https://github.com/user-attachments/files/16242504/CoMirror.pdf)
+* [[논문1]] 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현(https://github.com/user-attachments/files/16242504/CoMirror.pdf)
 * [[논문2] 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가](https://github.com/user-attachments/files/16242544/CoMirror.pdf)
 * [[논문3] All-in-JPEG File Format as Extension of JPEG and Its Applications](https://github.com/user-attachments/files/16242568/All-in-JPEG.File.Format.as.Extension.of.JPEG.and.Its.Applications.pdf)
 * [[논문4] JPEG를 확장한 멀티콘텐츠 저장 포맷 All-in-JPEG에 관한 예비 연구](https://github.com/user-attachments/files/16242570/JPEG.All-in-JPEG.pdf)
